@@ -24,9 +24,3 @@ function isOpposite(s1, s2) {
   }
   return true;
 }
-isOpposite("AB", "ab");
-isOpposite("aB", "Ab");
-isOpposite("aBcd", "AbCD");
-isOpposite("aBcde", "AbCD");
-isOpposite("AB", "Ab");
-isOpposite("", "");
